@@ -1,0 +1,2 @@
+"Model","Train_Accuracy","Test_Accuracy","Tree_Size"
+"Pruned Decision Tree",75.375,72.5,9

@@ -1,0 +1,4 @@
+"Model","Train_Accuracy","Test_Accuracy","Tree_Size"
+"Random Forest",77.25,69.5,NA
+"Original Decision Tree",76.875,69,37
+"Pruned Decision Tree",75.375,72.5,9
